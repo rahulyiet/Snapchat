@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">989397955447-jv59nrh2fs68p5r4cv88oe0arg4gbr98.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://snapchat-57a7a.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">989397955447</string>
+    <string name="google_api_key" translatable="false">AIzaSyByqYQxF9m3kuoU7hy-6TUK8ABppxwGsbc</string>
+    <string name="google_app_id" translatable="false">1:989397955447:android:853ba7aa2ad7b263</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyByqYQxF9m3kuoU7hy-6TUK8ABppxwGsbc</string>
+    <string name="google_storage_bucket" translatable="false">snapchat-57a7a.appspot.com</string>
+    <string name="project_id" translatable="false">snapchat-57a7a</string>
+</resources>
